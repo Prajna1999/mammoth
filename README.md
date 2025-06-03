@@ -1,0 +1,1 @@
+Mammoth is a mongodb like document store written in Common LISP.
